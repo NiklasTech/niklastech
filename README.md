@@ -33,9 +33,5 @@
 
 ## 📫 How to reach me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niklas-h-tech)
 [![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://dev-portfolio-niklas.vercel.app/)
-
-## Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/niklas-h-tech) | [![Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=google-chrome&logoColor=white)](https://dev-portfolio-niklas.vercel.app/)
