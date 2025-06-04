@@ -38,4 +38,4 @@
 
 ## Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) | [![Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=google-chrome&logoColor=white)](https://dev-portfolio-niklas.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/niklas-h-tech) | [![Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=google-chrome&logoColor=white)](https://dev-portfolio-niklas.vercel.app/)
