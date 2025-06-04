@@ -1,25 +1,25 @@
 # Hi 👋, I'm Niklas
 
 <div align="center">
-  <img src="retro-gaming.gif" alt="Retro Gaming Setup" width="600"/>
+  <img src="./gifs/retro-gaming.gif" alt="Retro Gaming Setup" width="600"/>
 </div>
 
 ## About Me:
 
-🎓 Apprenticeship as an IT Specialist in Application Development
-💻 Building small projects with TypeScript, React, and Tailwind CSS
-🐍 Using Python occasionally for personal learning projects
-💬 Talk to me about web development, TypeScript, React, Tailwind, or project ideas
+- 🎓 I'm training to become an IT specialist
+- 💻 I build small projects on the side using TypeScript and Python
+- 💻 I use daily: `.ts`, `.js`, `.py`, `.tsx`, `.jsx`
+- 💬 Talk to me about web development, TypeScript, React or small project ideas
 
 <div align="center">
-  <img src="waterfall.gif" alt="Peaceful Waterfall" width="400"/>
+  <img src="./gifs/waterfall.gif" alt="Peaceful Waterfall" width="400"/>
 </div>
 
 ## 📫 How to reach me:
 
-- [LinkedIn](https://www.linkedin.com/in/niklas-h-tech/)
+- [LinkedIn](https://linkedin.com/in/yourprofile)
 - [Visit my Website](https://dev-portfolio-niklas.vercel.app/)
 
 ## Connect with me:
 
-[LinkedIn](https://www.linkedin.com/in/niklas-h-tech/) | [Website](https://dev-portfolio-niklas.vercel.app/)
+[LinkedIn](https://linkedin.com/in/yourprofile) | [Website](https://dev-portfolio-niklas.vercel.app/)
