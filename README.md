@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Niklas
 
-<!--
-**NiklasTech/niklastech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="retro-gaming.gif" alt="Retro Gaming Setup" width="600"/>
+</div>
 
-Here are some ideas to get you started:
+## About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Apprenticeship as an IT Specialist in Application Development
+💻 Building small projects with TypeScript, React, and Tailwind CSS
+🐍 Using Python occasionally for personal learning projects
+💬 Talk to me about web development, TypeScript, React, Tailwind, or project ideas
+
+<div align="center">
+  <img src="waterfall.gif" alt="Peaceful Waterfall" width="400"/>
+</div>
+
+## 📫 How to reach me:
+
+- [LinkedIn](https://www.linkedin.com/in/niklas-h-tech/)
+- [Visit my Website](https://dev-portfolio-niklas.vercel.app/)
+
+## Connect with me:
+
+[LinkedIn](https://www.linkedin.com/in/niklas-h-tech/) | [Website](https://dev-portfolio-niklas.vercel.app/)
