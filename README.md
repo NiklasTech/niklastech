@@ -34,4 +34,5 @@
 ## 📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niklas-h-tech)
-[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://dev-portfolio-niklas.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://dev-portfolio-niklas.vercel.app/)
+[![NH-WebDev](https://img.shields.io/badge/NH--WebDev-22C55E?style=for-the-badge&logo=globe&logoColor=white)](https://nh-webdev.de/)
