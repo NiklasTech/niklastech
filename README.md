@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=NiklasTech&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20in%20the%20making&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=TypeScript+%7C+React+%7C+Next.js;Java+Backend;Building+Pragma+IDE;NH-WebDev+%E2%80%94+Freelance+Web+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=TypeScript+%7C+React+%7C+Next.js;Java+Backend;Building+Pragma+%E2%80%94+AI-native+IDE;NH-WebDev+%E2%80%94+Freelance+Web+Dev" alt="Typing SVG" />
 </a>
 
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding" width="420"/>
@@ -24,16 +24,18 @@ location: Germany
 role: Fullstack Developer
 
 currently_building:
-  - Pragma — a terminal-focused IDE
+  - Pragma — AI-native desktop IDE (Tauri + Rust)
   - NH-WebDev — freelance web projects
 
 daily_driver: [".ts", ".tsx", ".java"]
-tools: [VS Code, Git, Docker, pnpm, Kimi Code CLI]
+tools: [VS Code, Git, Docker, pnpm]
 os: [Windows, CachyOS, macOS]
+
+workflow: AI-assisted development — agents, prompts, harnesses
 
 interests:
   - AI agents & harness architectures
-  - Terminal-based tooling
+  - AI-powered developer tooling
   - Web design & automation
   - Python for scripting
 ```
