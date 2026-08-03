@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=TypeScript+%7C+React+%7C+Next.js;Java+%26+.NET+Backend;Building+Pragma+IDE;NH-WebDev+%E2%80%94+Freelance+Web+Dev" alt="Typing SVG" />
 </a>
 
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding" width="420"/>
+
 </div>
 
 ---
@@ -19,13 +21,11 @@
 ```yaml
 name: Niklas
 location: Germany
-role: IT Specialist Apprentice (Fullstack)
-company: AixpertSoft GmbH
+role: Fullstack Developer
 
 currently_building:
   - Pragma — a terminal-focused IDE
   - NH-WebDev — freelance web projects
-  - Verios — wizard systems @ work
 
 daily_driver: [".ts", ".tsx", ".cs", ".java"]
 tools: [VS Code, Git, pnpm, Kimi Code CLI]
