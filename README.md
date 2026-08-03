@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=NiklasTech&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20in%20the%20making&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=TypeScript+%7C+React+%7C+Next.js;Java+%26+.NET+Backend;Building+Pragma+IDE;NH-WebDev+%E2%80%94+Freelance+Web+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=TypeScript+%7C+React+%7C+Next.js;Java+Backend;Building+Pragma+IDE;NH-WebDev+%E2%80%94+Freelance+Web+Dev" alt="Typing SVG" />
 </a>
 
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding" width="420"/>
@@ -27,14 +27,15 @@ currently_building:
   - Pragma — a terminal-focused IDE
   - NH-WebDev — freelance web projects
 
-daily_driver: [".ts", ".tsx", ".cs", ".java"]
-tools: [VS Code, Git, pnpm, Kimi Code CLI]
+daily_driver: [".ts", ".tsx", ".java"]
+tools: [VS Code, Git, Docker, pnpm, Kimi Code CLI]
 os: [Windows, CachyOS, macOS]
 
 interests:
   - AI agents & harness architectures
   - Terminal-based tooling
   - Web design & automation
+  - Python for scripting
 ```
 
 </td>
@@ -58,10 +59,16 @@ interests:
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&theme=dark" />
 </a>
 
-**Backend & Tools**
+**Backend & Data**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,dotnet,python,nodejs,git,github,vscode,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,nodejs,mysql,docker&theme=dark" />
+</a>
+
+**Tools & Design**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux&theme=dark" />
 </a>
 
 </div>
